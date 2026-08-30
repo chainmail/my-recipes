@@ -21,7 +21,7 @@ essential oils and keeping the rice grains separate and fluffy.
 *   **Onion:** 1 small, thinly sliced (optional, for texture)
 *   **Garlic:** 2 cloves, finely chopped (optional)
 *   **Ginger:** 1 inch piece, finely grated (optional)
-*   **Turmeric Powder:** ½ teaspoon (for color)
+*   **Turmeric powder:** ½ teaspoon (for colour)
 *   **Salt:** To taste
 
 **Finishing:**
@@ -75,8 +75,8 @@ rice to finish steaming.
 spicy aroma. If it is burnt, the rice will have a bitter taste.
 *   **Rinse the Rice:** Washing rice removes excess starch. If you skip this step, your Jeera Rice will be 
 sticky and clumpy.
-*   **Ghee vs. Oil:** Using ghee (clarified butter) will give the rice a rich, nutty flavor and a beautiful 
-golden color. Vegetable oil works fine if you prefer to avoid dairy.
+*   **Ghee vs oil:** Using ghee (clarified butter) will give the rice a rich, nutty flavour and a beautiful
+golden colour. Vegetable oil works fine if you prefer to avoid dairy.
 *   **Variation:** If you want a restaurant-style twist, add a few drops of lemon juice after cooking for a 
 slight tang, or add fried cashew nuts on top.
 

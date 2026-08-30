@@ -1,5 +1,5 @@
 # Recipes from home
-The recipes are sometimes sourced from another site (in which case it is listed) amd sometimes form inside my head. The rest are AI Generated and not necessarily tested!
+The recipes are sometimes sourced from another site (in which case it is listed) and sometimes from inside my head. The rest are AI generated and not necessarily tested!
 
 Recipes:
 

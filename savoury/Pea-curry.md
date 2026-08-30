@@ -3,7 +3,7 @@ From: https://www.thefieryvegetarian.com/pea-curry/
 Ingredients
 
     3 small onions (roughly chopped)
-    2 large green chili pepper (roughly chopped)
+    2 large green chilli peppers (roughly chopped)
     3 tsp ginger paste
     3 tsp garlic paste
     1 tbsp ground coriander
@@ -18,7 +18,7 @@ Ingredients
 
 Instructions
 
-    Saute the onion, garlic, ginger, and chili pepper until aromatic.
+    Sauté the onion, garlic, ginger, and chilli pepper until aromatic.
     Add ground coriander, turmeric, and cumin.
         - Can add a splash of vinegar to bring the powdered spices together with the other ingredients.
     Add tomatoes and stir. Put to one side and cool.

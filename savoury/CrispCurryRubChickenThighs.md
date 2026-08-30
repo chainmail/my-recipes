@@ -12,7 +12,7 @@ Variations:
 1 tsp garlic powder
 1/2 tsp cayenne pepper
 1/2 tsp ground allspice
-1/2 tsp chili powder
+1/2 tsp chilli powder
 1/2 tsp ground coriander
 1/4 tsp cardamom
 1/4 tsp ground cinnamon
@@ -41,4 +41,4 @@ Keep the bones and remaining juices to make chicken stock for biryani, etc.
 
 Notes:
 
-1. Melt about 1-2 tbsp of butter (i.e. flora block), add 1 tsp minced ginger and lightly stir to distribute the ginger. Then add the spices about 1/3 in 3 steps. Stirring to mix the spices as you add them. Once they are cooked together (30-60 seconds) put the spices in a bowl and leave to cool. They should be very aromtaic at this point.
+1. Melt about 1-2 tbsp of butter (i.e. Flora block), add 1 tsp minced ginger and lightly stir to distribute the ginger. Then add the spices in three stages, about 1/3 at a time. Stir to mix the spices as you add them. Once they are cooked together (30-60 seconds), put the spices in a bowl and leave them to cool. They should be very aromatic at this point.

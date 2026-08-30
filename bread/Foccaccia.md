@@ -6,7 +6,7 @@ Brush a large bowl with 2 tablespoons of olive oil. Use a spatula to transfer th
 Set aside to rise (1-1.5 hours or double in size - First time it was 45 minutes)
 Brush a 9×13-inch pan with another 2 tablespoons of olive oil.
 Uncover the dough and rub your hands with olive oil.
-Slide your hand under one edge of the dough and fold it into the center of the bowl. Folding the dough into itself, until you have a rough ball.
+Slide your hand under one edge of the dough and fold it into the centre of the bowl. Folding the dough into itself until you have a rough ball.
 Transfer the dough to the pan and turn to roll it in the oil.
 
 Press the dough to the pan’s edges. Let it relax, and then press it to the edges again.

@@ -27,7 +27,7 @@ Place each dough lump on to baking paper sheet and let it spread out and leave f
 
 After second rise:
 Repeat the exercise of rolling the dough in to a ball, and adding more flour if necessary.
-Place each piece in to the center of a baking paper sheet and spread it out, aiming for a circle.
+Place each piece into the centre of a baking paper sheet and spread it out, aiming for a circle.
 Try to ensure some depth (~2 or 3 mm) evenly.
 At this point, you can add the crust filling around the edge of the disk. Fold the edge over the filling and seal it to the base. Try to avoid any holes.
 Bake the base at 180C for 5-10 minutes. This will fix the base in time and shape. It can now be left for a day or so, ideally in the fridge.

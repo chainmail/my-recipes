@@ -5,7 +5,7 @@
 1 teaspoon salt
 1/2 teaspoon black pepper
 1 teaspoon ground cumin
-2 teaspoons chili powder
+2 teaspoons chilli powder
 
 Melt the butter and stir the rest in.
 

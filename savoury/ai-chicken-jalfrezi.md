@@ -1,11 +1,11 @@
 To cook Chicken Jalfrezi like a top restaurant, you cannot simply throw spices on top. This dish relies on the 
 **balance of heat, acid, and crunch**. Traditional Jalfrezi comes from a Punjabi/Indian roots where the dish is 
-named after the pickle-like tangy flavor.
+named after the pickle-like tangy flavour.
 
 Restaurant secrets for this dish:
 1.  **Don't boil the sauce:** It should be a thick, rich gravy, not a watery soup.
-2.  **Crisp-tender Veggies:** The bell peppers (capsicum) must retain crunch.
-3.  **The "Acid Punch":** The defining feature of Jalfrezi is a finishing splash of vinegar or lemon.
+2.  **Crisp-tender veggies:** The bell peppers (capsicum) must retain their crunch.
+3.  **The "acid punch":** The defining feature of Jalfrezi is a finishing splash of vinegar or lemon.
 4.  **Fry, Don't Sauté:** Get your onions dark gold before adding chicken.
 
 Here is the elevated, spicy, complex recipe.
@@ -25,9 +25,9 @@ Here is the elevated, spicy, complex recipe.
 moisture).
 *   **Yogurt:** 4 tbsp thick plain yogurt (ghee or hung curd is best).
 *   **Aromatics:** 1 tbsp ginger-garlic paste.
-*   **Spice Rub:** 1 tbsp Kashmiri chili powder (for color), 1 tsp coriander powder, 1 tsp cumin powder, ½ tsp 
+*   **Spice Rub:** 1 tbsp Kashmiri chilli powder (for colour), 1 tsp coriander powder, 1 tsp cumin powder, ½ tsp 
 turmeric.
-*   **Acidity:** 1 tbsp fresh lemon juice (helps tenderize the meat).
+*   **Acidity:** 1 tbsp fresh lemon juice (helps tenderise the meat).
 *   **Salt:** To taste.
 
 #### **The Masala Base (The "Complex" Factor)**
@@ -41,13 +41,13 @@ pieces.
 
 #### **The Wet Spices**
 *   **Ginger:** 1 inch piece, grated.
-*   **Green Chilies:** 6-8, slit lengthwise.
-*   **Fresh Chilies:** 1 tbsp (cascara or bird's eye, dried).
+*   **Green chillies:** 6-8, slit lengthwise.
+*   **Fresh chillies:** 1 tbsp (cascara or bird's eye, dried).
 *   **Vinegar:** 1 tbsp (Apple cider vinegar or white distilled vinegar - this is the secret).
 *   **Lemon Wedges:** For serving.
 
 #### **The Finish**
-*   **Butter:** 2 tbsp (mixed with 1 tsp garam masala and red chili flakes).
+*   **Butter:** 2 tbsp (mixed with 1 tsp garam masala and red chilli flakes).
 *   **Fresh Coriander:** Generous handful.
 
 ---
@@ -55,10 +55,9 @@ pieces.
 ### **Instructions**
 
 #### **1. Marinate the Chicken**
-Combine the chicken thighs with the yogurt, ginger-garlic paste, lemon juice, Kashmiri chili, and spices. Rub it 
-in thoroughly.
-*   **Chef's Note:** Leave it for at least 45 minutes. If you have time, refrigerate for 2 hours. This 
-tenderizes the meat and locks in the spice.
+Combine the chicken thighs with the yogurt, ginger-garlic paste, lemon juice, Kashmiri chilli and spices. Rub it in thoroughly.
+*   **Chef's note:** Leave it for at least 45 minutes. If you have time, refrigerate it for 2 hours. This 
+tenderises the meat and locks in the spice.
 
 #### **2. Prepare the Masala Base (Bhuna Style)**
 This is the most critical step. You are frying, not boiling.
@@ -86,11 +85,11 @@ shrink. You want them to char slightly at the edges but remain firm (Crisp-tende
 "restaurant crunch."
 
 #### **5. The Spice Layer & Finish**
-*   Stir the **green chilies**, **curry leaves**, and **fresh coriander** into the chicken pot.
-*   Sprinkle with **Kashmiri chili** and a pinch of salt.
+*   Stir the **green chillies**, **curry leaves**, and **fresh coriander** into the chicken pot.
+*   Sprinkle with **Kashmiri chilli** and a pinch of salt.
 *   **The Acid Punch:** Add the remaining **vinegar** now.
-*   **The Aromatics:** In a small pan, melt the **butter with garam masala and dried red chilies**. Let it 
-sizzle and release the aroma (Tadka).
+*   **The aromatics:** In a small pan, melt the **butter with garam masala and dried red chillies**. Let it 
+sizzle and release the aroma (tadka).
 *   Pour this sizzling butter over the Jalfrezi and stir briefly.
 
 #### **6. Serving**
@@ -102,7 +101,7 @@ sizzle and release the aroma (Tadka).
 ### **The 3 Secrets to Restaurant Quality**
 
 1.  **The Onion Ratio:** In home cooking, the onion is often raw. In restaurants, the onion is fried until 
-caramelized to create sweetness that balances the vinegar.
+caramelised to create sweetness that balances the vinegar.
 2.  **The Capsicum Technique:** Many home cooks add the vegetables too early. The heat of the Jalfrezi pot cooks 
 them into mush. Fry them separately or add them in the last 3 minutes.
 3.  **The Acid:** If you eat Jalfrezi without acid, it is just a curry. If you eat it *with* acid, it tastes 

@@ -11,9 +11,9 @@ Heat the oil in a pan.
 Fry the onion until glassy or just caramelising for a bit more flavour.
 Add the garlic paste and stir it in.
 don't burn the garlic!
-Add the tomato paste and rinse the jar with sonme water. Pour that in on top and stir to mix.
+Add the tomato paste and rinse the jar with some water. Pour that in on top and stir to mix.
 Add the tomato puree and stir to mix evenly.
-Add the Italian herb mix, crushing it between your palms as it drops in to the pan and stir to mix.
+Add the Italian herb mix, crushing it between your palms as it drops into the pan and stir to mix.
 Add salt and pepper to taste.
 
 Cook gently until thick enough to spread but not pourable (that's a subjective decision).

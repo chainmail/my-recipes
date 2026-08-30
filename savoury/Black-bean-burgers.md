@@ -1,4 +1,4 @@
-Black beean burgers: https://www.loveandlemons.com/black-bean-burger-recipe/#wprm-recipe-container-49475
+Black bean burgers: https://www.loveandlemons.com/black-bean-burger-recipe/#wprm-recipe-container-49475
 
 Cauliflower rice: https://www.loveandlemons.com/cauliflower-fried-rice/#wprm-recipe-container-68246
 
