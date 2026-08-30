@@ -1,13 +1,17 @@
 # From: My head!
 
-4 skinned and defatted chicken thighs (bone in)
-1tbsp garlic paste
-1tbsp ginger paste
-1 sprig basil leaves per thigh
+* 4 skinned and defatted chicken thighs (bone in)
+* 1tbsp garlic paste
+* 1tbsp ginger paste
+* 1 sprig basil leaves per thigh
 
-Heat oven to 185C with fan on
+* Heat oven to 185C with fan on
 
+## Process
 1. Prep the thighs
+     * skin
+     * defat
+     * cut
 2. Put the ginger & garlic paste in a bowl and mix
 3. Prep the basil sprigs
 4. Put the thighs on a piece of baking paper in a shallow over proof dish and rub with a small amount of olive oil
