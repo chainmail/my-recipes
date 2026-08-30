@@ -3,23 +3,28 @@ The recipes are sometimes sourced from another site (in which case it is listed)
 
 Recipes:
 
-* [AI chicken jalfrezi](ai-chicken-jalfrezi.md)
-* [AI jeera rice](ai-jeera-rice.md)
-* [Beef biryani](Beef-Biryani.md)
-* [Black bean burgers](Black-bean-burgers.md)
-* [Chicke thigh marinade](Chicke-thigh-marinade.md)
-* [Chilli garlic butter](chilli-garlic-butter.md)
-* [Cong You Bing scallion pancakes](CongYouBing-Scallion-pancakes.md)
-* [Crisp curry rub chicken thighs](CrispCurryRubChickenThighs.md)
-* [Fatly ginger garlic chicken](Fatly-ginger-garlic-chicken.md)
-* [Focaccia](Foccaccia.md)
-* [Fried rice](FriedRice.md)
-* [Ginger nuts](Ginger-nuts.md)
-* [Pan fried chicken breast](pan-fried-chicken-breast.md)
-* [Pea curry](Pea-curry.md)
-* [Peshwari naan filling](Peshwari-naan-filling.md)
-* [Pizza base](Pizza-base.md)
-* [Pizza sauce](Pizza-sauce.md)
-* [Thepla](Thepla.md)
-* [Velvet beef](sfg-velvet-beef.md)
+## Bread
+* [Focaccia](bread/Foccaccia.md)
+* [Peshwari naan filling](bread/Peshwari-naan-filling.md)
+* [Pizza base](bread/Pizza-base.md)
+* [Thepla](bread/Thepla.md)
+
+## Savoury
+* [AI chicken jalfrezi](savoury/ai-chicken-jalfrezi.md)
+* [AI jeera rice](savoury/ai-jeera-rice.md)
+* [Beef biryani](savoury/Beef-Biryani.md)
+* [Black bean burgers](savoury/Black-bean-burgers.md)
+* [Chicke thigh marinade](savoury/Chicke-thigh-marinade.md)
+* [Chilli garlic butter](savoury/chilli-garlic-butter.md)
+* [Cong You Bing scallion pancakes](savoury/CongYouBing-Scallion-pancakes.md)
+* [Crisp curry rub chicken thighs](savoury/CrispCurryRubChickenThighs.md)
+* [Fatly ginger garlic chicken](savoury/Fatly-ginger-garlic-chicken.md)
+* [Fried rice](savoury/FriedRice.md)
+* [Pan fried chicken breast](savoury/pan-fried-chicken-breast.md)
+* [Pea curry](savoury/Pea-curry.md)
+* [Pizza sauce](savoury/Pizza-sauce.md)
+* [Velvet beef](savoury/sfg-velvet-beef.md)
+
+## Sweet
+* [Ginger nuts](sweet/Ginger-nuts.md)
 
