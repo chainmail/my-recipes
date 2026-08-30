@@ -1,6 +1,6 @@
 Thepla Recipe
 
-1 cup fenugreek leaves (fresh methi) – tightly packed
+30 g fenugreek leaves (fresh methi) – tightly packed
 120g whole wheat flour
 60g gram flour (besan)
 60g pearl millet flour (bajra flour)

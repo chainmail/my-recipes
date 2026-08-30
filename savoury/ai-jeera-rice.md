@@ -12,8 +12,8 @@ essential oils and keeping the rice grains separate and fluffy.
 ### **Ingredients**
 
 **Base:**
-*   **Basmati Rice:** 1 cup (long-grain rice works best)
-*   **Water:** 1¾ cups
+*   **Basmati Rice:** 200 g (long-grain rice works best)
+*   **Water:** 420 ml
 *   **Vegetable Oil or Ghee:** 2–3 tablespoons
 
 **Frying & Spices:**

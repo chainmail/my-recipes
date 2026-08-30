@@ -1,5 +1,5 @@
-    1 cup flaked almonds
-    ½ cup sultanas
+    120 g flaked almonds
+    80 g sultanas
     2 tablespoon desiccated coconut
     1 tablespoon brown sugar
     3 tablespoon melted butter

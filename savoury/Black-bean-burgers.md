@@ -11,8 +11,8 @@ Adobo sauce: https://keviniscooking.com/how-to-make-adobo-sauce/#wprm-recipe-con
 
 Ingredients
 
-    3 cups cooked black beans, drained and rinsed
-    ⅓ cup grated yellow onion*, (about ½ medium)
+    500 g cooked black beans, drained and rinsed
+    50 g grated yellow onion*, (about ½ medium)
     2 garlic cloves, minced
     2 chipotle peppers from a can of chipotles in adobo, diced
     2 tablespoons adobo sauce
@@ -22,7 +22,7 @@ Ingredients
     ½ teaspoon sea salt
     ½ teaspoon freshly ground black pepper
     1 large egg**
-    1 cup panko bread crumbs
+    100 g panko bread crumbs
     Extra-virgin olive oil, for brushing
     Cooking spray, if grilling
     Hamburger buns, for serving
