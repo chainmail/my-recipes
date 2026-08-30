@@ -14,7 +14,7 @@
      * cut
 2. Put the ginger & garlic paste in a bowl and mix
 3. Prep the basil sprigs
-4. Put the thighs on a piece of baking paper in a shallow over proof dish and rub with a small amount of olive oil
+4. Put the thighs on a piece of baking paper in a shallow oven proof dish and rub with a small amount of olive oil
 5. Put a layer of the paste mix (0.2-0.5 cn thick) on each thigh
 6. Put a sprig of basil on each thigh and connect to paste (does not need to be pretty)
 
