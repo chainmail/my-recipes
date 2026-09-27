@@ -20,6 +20,7 @@ Spices:
  - coriander
  - garam masala
 
+Method:
 * Melt butter in a pan
 * Sauté onions until brown
 * Stir in all the dried spices. If necessary, add a little more butter.
