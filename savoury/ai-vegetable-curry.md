@@ -7,6 +7,8 @@ A vegetable curry featuring pumpkin, potatoes, green beans, onions, and tomatoes
 ## Method
 
 Vegetables:
+ - 1 large onion, chopped
+ - 1 tbsp butter or butter alternative
  - 150g Green Bean or french beans, cut to about 1-2cm length
  - 300g Potato, cut to bite size pieces
  - 300g Pumpkin or another squash (cubed)
@@ -15,10 +17,10 @@ Vegetables:
  - 1 tbsp garlic paste
 
 Spices:
- - turmeric
- - cumin
- - coriander
- - garam masala
+ - 0.5 tsp turmeric
+ - 1 tsp cumin
+ - 3 tsp coriander
+ - 2.5 tsp garam masala
 
 Method:
 * Melt butter in a pan
@@ -26,6 +28,7 @@ Method:
 * Stir in all the dried spices. If necessary, add a little more butter.
 * Add ginger garlic paste and stir to blend
 * Add coconut milk, tomatoes, pumpkin cubes and potato pieces and simmer until tender. Add more (hot) water if needed.
+* Taste test and add salt to taste
 * When the roots are tender, add in the green beans for the last 5-10 minutes
 * Serve with a sprinkling of fresh coriander and a splash of lime if it appeals
 
