@@ -27,4 +27,3 @@ Recipes:
 
 ## Sweet
 * [Ginger nuts](sweet/Ginger-nuts.md)
-

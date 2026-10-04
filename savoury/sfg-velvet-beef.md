@@ -18,8 +18,8 @@
 # Slice Against the Grain:
 * Always cut perpendicular to muscle fibres to shorten them, ensuring tenderness.
 # Dry the Meat:
-Surface moisture prevents proper coating; pat beef dry before adding starch or soda. 
+Surface moisture prevents proper coating; pat beef dry before adding starch or soda.
 # High Heat:
-* Velveted beef cooks very quickly. Sear in a smoking hot wok or pan for 30–60 seconds to brown the exterior while keeping the interior rare/medium-rare. 
+* Velveted beef cooks very quickly. Sear in a smoking hot wok or pan for 30–60 seconds to brown the exterior while keeping the interior rare/medium-rare.
 # Avoid Over-Marinating:
 * Do not exceed 1 hour with baking soda, as the meat can become mushy and taste inedible
