@@ -20,6 +20,7 @@ Options:
  - 1 green chilli, sliced across or lengthwise, deseeded or not (optional)
  - 1 red chilli, sliced across or lengthwise, deseeded or not (optional)
  - Kasuri methi, ground together in the palm of your hands
+ - Why not try broccoli or cauliflower in place of the beans?
 
 Spices:
  - 0.5 tsp turmeric
@@ -32,8 +33,8 @@ Method:
 * Sauté onions until brown
 * Stir in all the dried spices. If necessary, add a little more butter.
 * Add ginger garlic paste and stir to blend
-* Add coconut milk, tomatoes, pumpkin cubes and potato pieces and simmer until tender. Add more (hot) water if needed.
-* Add chillis if using
+* Add coconut milk, tomatoes, pumpkin cubes, potato pieces and chillis if using
+* Simmer until tender. Add more (hot) water if needed.
 * Taste test and:
   * Add salt to taste
   * Add more garam massala
