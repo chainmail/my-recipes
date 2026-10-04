@@ -16,5 +16,3 @@ For this to work really well, [bake your own focaccia](../bread/Foccaccia.md)!
 3. Put to one side for at least 30 minutes
 4. Cook the chiken pieces, in a single layer, flip regularly until cooked (about 5-7 minutes)
   * Do this in batches, putting the batches in to a clean bowl, lined with kitchen paper
-
-

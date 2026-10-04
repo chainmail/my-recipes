@@ -45,4 +45,3 @@ Method:
 * Serve with a sprinkling of fresh coriander and a splash of lime if it appeals
 
 Served with jeera rice, naan, or other flatbreads. Thepla might be interesting!
-

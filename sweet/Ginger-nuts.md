@@ -10,7 +10,7 @@
 1 tsp Bicarbonate Of Soda (Do not over do this!)
 
 Instructions
- 
+
 1. Preheat your oven to 185°C (gas mark 4, 160°Fan) and line two baking trays with parchment paper.
 2. Melt butter/margarine in a bowl in the microwave.
 3. Add light brown sugar, ginger, cinnamon, baking powder and golden syrup to a large mixing bowl and stir to combine well.

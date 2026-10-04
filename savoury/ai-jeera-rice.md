@@ -1,5 +1,5 @@
-Here is a classic and authentic recipe for **Jeera Rice (Cumin Rice)**. It is a simple yet aromatic rice dish 
-that is a staple in Indian households. The key to good Jeera Rice is toasting the cumin seeds to release their 
+Here is a classic and authentic recipe for **Jeera Rice (Cumin Rice)**. It is a simple yet aromatic rice dish
+that is a staple in Indian households. The key to good Jeera Rice is toasting the cumin seeds to release their
 essential oils and keeping the rice grains separate and fluffy.
 
 ### **Classic Jeera Rice**
@@ -34,7 +34,7 @@ essential oils and keeping the rice grains separate and fluffy.
 
 **1. Prepare the Rice**
 *   Rinse the basmati rice under cold water until the water runs clear.
-*   Soak the rice in a bowl of water for about **30 minutes**. (This helps the grains cook evenly and stay 
+*   Soak the rice in a bowl of water for about **30 minutes**. (This helps the grains cook evenly and stay
 separate).
 *   Drain the water well before cooking.
 
@@ -47,7 +47,7 @@ separate).
 **3. Cook the Vegetables (Optional but Recommended)**
 *   If using onions, garlic, and ginger, add them to the pan now.
 *   Sauté for 1–2 minutes until the onions become translucent and slightly golden.
-*   Remove the pan from the heat for a second while you proceed to the next step (this prevents the rice from 
+*   Remove the pan from the heat for a second while you proceed to the next step (this prevents the rice from
 sticking before the water is added).
 
 **4. Combine and Simmer**
@@ -58,12 +58,12 @@ sticking before the water is added).
 
 **5. Steam the Rice (Dum)**
 *   Reduce the heat to **low**.
-*   Let it cook undisturbed for **15–18 minutes**. (Do not open the lid while cooking, as this releases the 
+*   Let it cook undisturbed for **15–18 minutes**. (Do not open the lid while cooking, as this releases the
 steam).
 *   The rice is done when the water is fully absorbed and the grains are fluffy.
 
 **6. Rest and Serve**
-*   Turn off the heat. Let the pot sit, covered, for another **5 minutes**. This is called "Dum" and allows the 
+*   Turn off the heat. Let the pot sit, covered, for another **5 minutes**. This is called "Dum" and allows the
 rice to finish steaming.
 *   Fluff the rice gently with a fork.
 *   Garnish with chopped fresh cilantro and serve hot.
@@ -71,13 +71,13 @@ rice to finish steaming.
 ---
 
 ### **Chef’s Tips for Perfect Jeera Rice**
-*   **Don't Rush the Cumin:** The cumin is the star of the dish. If it is lightly toasted, the rice has a nutty, 
+*   **Don't Rush the Cumin:** The cumin is the star of the dish. If it is lightly toasted, the rice has a nutty,
 spicy aroma. If it is burnt, the rice will have a bitter taste.
-*   **Rinse the Rice:** Washing rice removes excess starch. If you skip this step, your Jeera Rice will be 
+*   **Rinse the Rice:** Washing rice removes excess starch. If you skip this step, your Jeera Rice will be
 sticky and clumpy.
 *   **Ghee vs oil:** Using ghee (clarified butter) will give the rice a rich, nutty flavour and a beautiful
 golden colour. Vegetable oil works fine if you prefer to avoid dairy.
-*   **Variation:** If you want a restaurant-style twist, add a few drops of lemon juice after cooking for a 
+*   **Variation:** If you want a restaurant-style twist, add a few drops of lemon juice after cooking for a
 slight tang, or add fried cashew nuts on top.
 
 Enjoy your homemade Jeera Rice! It pairs perfectly with curry or a simple pickle.
