@@ -9,4 +9,4 @@
 
 Melt the butter and stir the rest in.
 
-This is brilliant when added to boiled and crushed potatoes/topinambur(sunchokes)/other veg like broccoli & cauliflower (don't boil the other veg that's a starch body problem) and then roast the bastards!
+This is brilliant when added to boiled and crushed potatoes/topinambur(aka Jerusalem artichokes or sunchokes)/other veg like broccoli & cauliflower (don't boil the other veg that's a starch body problem) and then roast the bastards!
