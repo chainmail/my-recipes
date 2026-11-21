@@ -14,18 +14,18 @@ Recipes:
 ### Various
 * [Black bean burgers](savoury/Black-bean-burgers.md)
 * [Pizza sauce](savoury/Pizza-sauce.md)
-* [Fried rice](savoury/FriedRice.md)
+* [Fried rice](savoury/asian/FriedRice.md)
 
 ### Indian
-* [AI chicken jalfrezi](savoury/ai-chicken-jalfrezi.md)
-* [AI jeera rice](savoury/ai-jeera-rice.md)
-* [Beef biryani](savoury/Beef-Biryani.md)
-* [Chicken thigh marinade](savoury/Chicke-thigh-marinade.md)
-* [Crisp curry rub chicken thighs](savoury/CrispCurryRubChickenThighs.md)
-* [Fatly ginger garlic chicken](savoury/Fatly-ginger-garlic-chicken.md)
+* [AI chicken jalfrezi](savoury/indian/ai-chicken-jalfrezi.md)
+* [AI jeera rice](savoury/indian/ai-jeera-rice.md)
+* [Beef biryani](savoury/indian/Beef-Biryani.md)
+* [Chicken thigh marinade](savoury/indian/Chicken-thigh-marinade.md)
+* [Crisp curry rub chicken thighs](savoury/indian/CrispCurryRubChickenThighs.md)
+* [Fatly ginger garlic chicken](savoury/indian/Fatly-ginger-garlic-chicken.md)
 * [Pan fried chicken breast](savoury/pan-fried-chicken-breast.md)
-* [Pea curry](savoury/Pea-curry.md)
-* [Cong You Bing scallion pancakes](savoury/CongYouBing-Scallion-pancakes.md)
+* [Pea curry](savoury/indian/Pea-curry.md)
+* [Cong You Bing scallion pancakes](savoury/asian/CongYouBing-Scallion-pancakes.md)
 
 ### Mexican
 * [Guacamole](savoury/mexican/guacamole.md)
@@ -34,8 +34,8 @@ Recipes:
 * [AI Pico de Gallo](savoury/mexican/ai-pico-de-gallo.md)
 
 ### Techniques
-* [Velvet beef](savoury/sfg-velvet-beef.md)
-* [Chilli garlic butter](savoury/chilli-garlic-butter.md)
+* [Velvet beef](savoury/technique/sfg-velvet-beef.md)
+* [Chilli garlic butter](savoury/technique/chilli-garlic-butter.md)
 
 ## Sweet
 * [Ginger nuts](sweet/Ginger-nuts.md)
