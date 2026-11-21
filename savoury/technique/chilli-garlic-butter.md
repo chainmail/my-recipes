@@ -1,11 +1,11 @@
 # From: https://palatablepastime.com/2021/04/18/chili-garlic-smashed-sunchokes/
 
-4 tablespoons butter
-1 tablespoon minced garlic
-1 teaspoon salt
-1/2 teaspoon black pepper
-1 teaspoon ground cumin
-2 teaspoons chilli powder
+* 4 tablespoons butter
+* 1 tablespoon minced garlic
+* 1 teaspoon salt
+* 1/2 teaspoon black pepper
+* 1 teaspoon ground cumin
+* 2 teaspoons chilli powder
 
 Melt the butter and stir the rest in.
 
